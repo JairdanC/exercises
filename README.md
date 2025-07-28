@@ -11,3 +11,4 @@ Used for storing solutions and any explanations to any practice problems from so
 - [Computational Physics - Mark Newman](https://public.websites.umich.edu/~mejn/cp/exercises.html)
 - [Numerical Methods - Sullivan](https://numericalmethodssullivan.github.io/)
 - [Code Sansar](https://www.codesansar.com/numerical-methods)
+- [Get Cracked](https://www.getcracked.io/)

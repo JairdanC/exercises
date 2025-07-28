@@ -1,0 +1,13 @@
+This problem implements a pretty standard BFS algorithm in O(n) space and time complexity.
+The queue holds all the nodes to be checked and a list stores the level. The trick for this problem was being able to know when
+to switch to a new level list, to do this you use an inner loop that only executes the number of times that there are nodes currently
+in the queue, an exit of the inner loop indicates a new level. 
+
+Space: 
+All DS operations (poll, add, check) are done in O(n) time and the inner loop does not cause any loop to be interated over more than once,
+it is used for control not iterations and there for is not multiplied to the outer loop.
+O(n) * O(1) = O(n)
+
+Time: 
+There are two linear data structures that will hold in the worst case one of all nodes in the tree. Therefore, the space complexity is:
+O(n) + O(n) = O(2n) = O(n)
