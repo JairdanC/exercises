@@ -2,6 +2,7 @@
 
 Used for storing solutions and any explanations to any practice problems
 (x) = currently working on
+
 ---
 
 # Sources
@@ -17,7 +18,7 @@ Used for storing solutions and any explanations to any practice problems
 - [PICUP - Partnership for Intergration of Computation into Undergraduate Physics](https://www.compadre.org/PICUP/exercises/) (x)
 - [Computational Physics - Mark Newman](https://public.websites.umich.edu/~mejn/cp/exercises.html)
 - > Next Steps:
-  > Advanced CDF
+  > Advanced CDF,
   > Advanced EM
 
 ### Language Knowledge
@@ -27,10 +28,10 @@ Used for storing solutions and any explanations to any practice problems
 ### OS and HPC
 - [OS Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) (x)
 - > Next Steps:
-  > Kernels
-  > Parallel Programming Algorithms
-  > GPU programming
-  > Advanced Shell Programming
+  > Kernels,
+  > Parallel Programming Algorithms,
+  > GPU programming,
+  > Advanced Shell Programming,
   > Cluster Workflows (SLURM)
 
 ### Statistical Programming and ML
